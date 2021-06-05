@@ -7,10 +7,26 @@ large and complex body of code,This programming interface is such that drivers c
 
 Linux 设备驱动开发，以 linux 为代表的众多自由操作系统有着许多的优点，Linux 内核由大量复杂的代码组成，
 
+
+## Documentation
+
+Documentation for this library can be found here: 
+
+
 ## Cloning the repo
 
 ```bash
-$  git clone https://github.com/GeekDevelope/linux-device-drivers.git
+
+$  git clone https://github.com/Geek-Developer-Inc/linux-device-drivers.git
+
 ```
 
-This advanced real-time operating system (RTOS) is designed specifically for deeply embedded applications. Among the multiple benefits
+# Building and using the library
+
+```bash
+
+$  linux kernel version:
+
+$ Linux kernel release 4.x <http://kernel.org/>
+
+```
