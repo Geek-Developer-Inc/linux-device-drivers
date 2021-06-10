@@ -32,7 +32,6 @@ Linux Device Drivers Program Development Details：http://bbs.hqyj.com/thread-31
 
 
 ## Cloning the repo
-
 ```bash
 
 $ git clone https://github.com/Geek-Developer-Inc/linux-device-drivers.git
